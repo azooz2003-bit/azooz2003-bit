@@ -4,7 +4,7 @@ Currently residing in Atlanta, having come all the way from Kuwait.
 So a bit about myself...
 
 I generally love coding, especially whenever I learn something new.
-Whenever I feel the need to destress or go out I'll opt for volleyball.
+Whenever I feel the need to relax or go out I'll opt for volleyball.
 Enough fun stuff about me. For the future, I really want to concentrate on Machine Learning and App Development. I plan on deploying them together to create some 
 fun projects.
 
@@ -12,6 +12,4 @@ If anyone would like to collaborate or contact me regarding general purposes, pl
 
 abdulaziz@albahar.net
 
-Thank you for reading.
-
-😁
+Thank you for reading!
